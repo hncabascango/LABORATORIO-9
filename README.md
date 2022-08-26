@@ -38,6 +38,22 @@
 
 ### Sin emplear calculadora. Transforme a su forma rectangular:
 
+### a) 36∠−10°
+
+![image](https://user-images.githubusercontent.com/105606339/186790936-db4b3d9a-7b14-4e00-b714-e5ddd744a367.png)
+
+### b) 28.7∠135°
+
+![image](https://user-images.githubusercontent.com/105606339/186790940-6be02f6f-f478-4d02-b303-8b6458f29a1b.png)
+
+### c) 11.2∠28°
+
+![image](https://user-images.githubusercontent.com/105606339/186790945-7c9d42d1-a511-48de-aad4-161f08db018c.png)
+
+### d) 45∠−117.9°
+
+![image](https://user-images.githubusercontent.com/105606339/186790956-852ffdcd-e165-4461-926e-26861dcc78c2.png)
+
 ### Sin emplear calculadora. Realice las siguientes operaciones paso a paso, y
 represente el resultado tanto en su forma rectangular como en su forma polar.
 
