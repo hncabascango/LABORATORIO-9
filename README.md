@@ -94,19 +94,19 @@ d) 45 ∠ -117.9° = -21.05 – j39.76
 
 Realice las siguientes operaciones, y represente el resultado tanto en su forma rectangular como en su forma polar.
 
-![image](https://user-images.githubusercontent.com/105606339/186956028-08cd0f6f-e634-4018-9791-ce3b6f86e646.png)
+![image](https://user-images.githubusercontent.com/105606339/186956705-1529cb52-f8cc-47a4-9c94-eb08c3b94b13.png)
 
 Forma rectangular: 4.93+16.56j
 
 Forma polar: 17.28 73.40°
 
-![image](https://user-images.githubusercontent.com/105606339/186956067-c9ecdc55-c5aa-4ef2-a520-ffbdd6a46b43.png)
+![image](https://user-images.githubusercontent.com/105606339/186956744-22b23760-94a3-4563-afcf-8c34a9ecbe66.png)
 
 Forma rectangular:-3.34+5.52j
 
 Forma polar: 6.45 121.19°
 
-![image](https://user-images.githubusercontent.com/105606339/186956100-acc83b2d-ecb0-4da1-a243-4fb735622ed1.png)
+![image](https://user-images.githubusercontent.com/105606339/186956777-6ec11a22-c796-42c4-99ff-f4167705458e.png)
 
 Forma rectangular:47.35-19.68j
 
@@ -115,13 +115,13 @@ Forma polar: 51.28 -22.57°
 ## RESPUESTA A INTERROGANTES Y CÁLCULO DE ERROR
 
 ## CONCLUSIONES
-- El plano commplejo es un plano cartesiano modificado, en el que la parte real está representada en el eje de las abscisas y la parte imaginagia en el eje de las ordenadas.
+- El plano complejo es un plano cartesiano modificado, en el que la parte real está representada en el eje de las abscisas y la parte imaginaria en el eje de las ordenadas.
 - Al convertir de forma rectangular a forma quedará de la manera C∠±θ y al convertir de la forma polar a la rectangular quedará de la manera A + Bj
 - Para realizar tranformaciones utilizando una calculadora científica debemos confiiguarlo al modo cmplx, este modo nos permite realizar calculos y transformaciones con números complejos.
 
 ## BIBLIOGRAFÍA
 
-
+Floyd, TL (2007). Principios de circuitos electricos. México: EDUCACIÓN DE LA PERSONA.
 
 
 
