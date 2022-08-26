@@ -4,7 +4,15 @@
 
 ### Objetivo General
 
+Comprender la definición de números complejos y su aplicación en operaciones básicas para posteriormente emplearlos en la definición de cantidades fasoriales y en análisis de circuitos de ca.
+
 ### Objetivos Específicos
+
+- Distinguir composición y la representación de un punto en un plano complejo y en un plano cartesiano xy
+
+- Realizar transformaciones de la forma rectangular a la forma polar y visceversa sin utilizar una calculadora.
+
+- Realizar transformaciones de la forma rectangular a la forma polar y visceversa utilizando una calculadora.
 
 ## MARCO TEÓRICO
 
@@ -64,25 +72,54 @@
 
 ### Resuelva las operaciones anteriores por medio de la calculadora y compare resultados.
 
+### Transforme a su forma polar:
+
+a) 2 + 3 j = 3.60 ∠ 56.30°
+
+b) -8 + 6.2 j = 10.12 ∠ 142.22°
+
+c) 4.3 – 2.8 j = 5.13 ∠ -33.07°
+
+d) -6 – 3.2 j = 6.8 ∠ -151.92°
+
+### Transforme a su forma rectangular:
+
+a) 36 ∠ -10° = 35.45 – j6.25
+
+b) 28.7 ∠ 135° = -20.29 + j20.29
+
+c) 11.2 ∠ 28° = 9.88 + j5.25
+
+d) 45 ∠ -117.9° = -21.05 – j39.76
+
+Realice las siguientes operaciones, y represente el resultado tanto en su forma rectangular como en su forma polar.
+
+![image](https://user-images.githubusercontent.com/105606339/186956028-08cd0f6f-e634-4018-9791-ce3b6f86e646.png)
+
+Forma rectangular: 4.93+16.56j
+
+Forma polar: 17.28 73.40°
+
+![image](https://user-images.githubusercontent.com/105606339/186956067-c9ecdc55-c5aa-4ef2-a520-ffbdd6a46b43.png)
+
+Forma rectangular:-3.34+5.52j
+
+Forma polar: 6.45 121.19°
+
+![image](https://user-images.githubusercontent.com/105606339/186956100-acc83b2d-ecb0-4da1-a243-4fb735622ed1.png)
+
+Forma rectangular:47.35-19.68j
+
+Forma polar: 51.28 -22.57°
+
 ## RESPUESTA A INTERROGANTES Y CÁLCULO DE ERROR
 
 ## CONCLUSIONES
+- El plano commplejo es un plano cartesiano modificado, en el que la parte real está representada en el eje de las abscisas y la parte imaginagia en el eje de las ordenadas.
+- Al convertir de forma rectangular a forma quedará de la manera C∠±θ y al convertir de la forma polar a la rectangular quedará de la manera A + Bj
+- Para realizar tranformaciones utilizando una calculadora científica debemos confiiguarlo al modo cmplx, este modo nos permite realizar calculos y transformaciones con números complejos.
 
 ## BIBLIOGRAFÍA
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
