@@ -92,27 +92,29 @@ c) 11.2 ∠ 28° = 9.88 + j5.25
 
 d) 45 ∠ -117.9° = -21.05 – j39.76
 
-Realice las siguientes operaciones, y represente el resultado tanto en su forma rectangular como en su forma polar.
+### Realice las siguientes operaciones, y represente el resultado tanto en su forma rectangular como en su forma polar.
 
 ![image](https://user-images.githubusercontent.com/105606339/186956705-1529cb52-f8cc-47a4-9c94-eb08c3b94b13.png)
 
-Forma rectangular: 4.93+16.56j
+### Forma rectangular: 4.93+16.56j
 
-Forma polar: 17.28 73.40°
+### Forma polar: 17.28 73.40°
 
 ![image](https://user-images.githubusercontent.com/105606339/186956744-22b23760-94a3-4563-afcf-8c34a9ecbe66.png)
 
-Forma rectangular:-3.34+5.52j
+### Forma rectangular:-3.34+5.52j
 
-Forma polar: 6.45 121.19°
+### Forma polar: 6.45 121.19°
 
 ![image](https://user-images.githubusercontent.com/105606339/186956777-6ec11a22-c796-42c4-99ff-f4167705458e.png)
 
-Forma rectangular:47.35-19.68j
+### Forma rectangular: 47.35-19.68j
 
-Forma polar: 51.28 -22.57°
+### Forma polar: 51.28 -22.57°
 
 ## RESPUESTA A INTERROGANTES Y CÁLCULO DE ERROR
+
+![image](https://user-images.githubusercontent.com/105606339/187345284-b5ac41f9-424b-484d-b4c2-2de77ac04197.png)
 
 ## CONCLUSIONES
 - El plano complejo es un plano cartesiano modificado, en el que la parte real está representada en el eje de las abscisas y la parte imaginaria en el eje de las ordenadas.
